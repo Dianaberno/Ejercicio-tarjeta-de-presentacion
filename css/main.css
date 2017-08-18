@@ -1,0 +1,45 @@
+#general{
+    margin: auto;
+    width: 1000px;
+    height: 650px;
+    background:red;
+    background: -webkit-linear-gradient(red, orange);  
+    position: relative;
+}
+div{
+    display: block;
+    margin: 50px 0;
+}
+#coder{
+    height: 600px;
+    width: 580px;
+    position: absolute;
+}
+#trapecio {
+    
+   height: 0px;
+   width: 350px;
+   border-bottom: 554px solid #666666;
+   border-left: 400px solid transparent;
+   border-right: 0px solid transparent;
+   position:absolute;
+   left: 250px;
+}
+#slogan{
+    position: absolute;
+    background:whitesmoke; 
+    background: -webkit-linear-gradient(whitesmoke, yellow);
+}
+
+h1{
+    color:white;
+     font-size: 45px;
+}
+h2{
+    color: orange;
+     font-size: 30px;
+}
+p{
+    color:white;
+    font-size: 20px;
+}
